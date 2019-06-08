@@ -1,0 +1,25 @@
+{
+  "name": "@ztrehagem/tslint-rules",
+  "version": "0.0.0",
+  "private": true,
+  "description": "",
+  "main": "tslint.json",
+  "scripts": {
+    "test": "tslint **/*.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ztrehagem/tslint-rules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ztrehagem/tslint-rules/issues"
+  },
+  "homepage": "https://github.com/ztrehagem/tslint-rules#readme",
+  "devDependencies": {
+    "tslint": "^5.17.0",
+    "typescript": "^3.5.1"
+  }
+}
